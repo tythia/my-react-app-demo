@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-react-app-demo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/my-react-app-demo/static/js/main.24457be5.chunk.js",
+    "main.js.map": "/my-react-app-demo/static/js/main.24457be5.chunk.js.map",
+    "runtime-main.js": "/my-react-app-demo/static/js/runtime-main.02e8c629.js",
+    "runtime-main.js.map": "/my-react-app-demo/static/js/runtime-main.02e8c629.js.map",
+    "static/js/2.3d9806eb.chunk.js": "/my-react-app-demo/static/js/2.3d9806eb.chunk.js",
+    "static/js/2.3d9806eb.chunk.js.map": "/my-react-app-demo/static/js/2.3d9806eb.chunk.js.map",
+    "index.html": "/my-react-app-demo/index.html",
+    "precache-manifest.2d96bf8fdc304798770091e142478185.js": "/my-react-app-demo/precache-manifest.2d96bf8fdc304798770091e142478185.js",
+    "service-worker.js": "/my-react-app-demo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/my-react-app-demo/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/my-react-app-demo/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e8c629.js",
+    "static/js/2.3d9806eb.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.24457be5.chunk.js"
+  ]
+}
